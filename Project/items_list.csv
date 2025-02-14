@@ -1,0 +1,79 @@
+Category,Name,Price,Quantity
+Dairy,Milk,20,843
+Dairy,Cheese,45,500
+Dairy,Yogurt,30,282
+Dairy,Cream,45,389
+Dairy,Butter,50,200
+Dairy,Custard,50,250
+Grocery,Rice,250,1000
+Grocery,Wheat,450,800
+Grocery,Oils,300,508
+Grocery,Spices,150,900
+Grocery,Pulses,200,700
+Grocery,Snacks,150,500
+Grocery,Beverages,500,800
+Grocery,Juices,450,293
+Grocery,Pickles,250,200
+Appliances,Television,35000,50
+Appliances,Refrigerator,30000,30
+Appliances,Washing Machine,40000,19
+Appliances,Air Conditioner,60000,10
+Appliances,Ceiling Fan,7000,100
+Appliances,Stand Fans,5000,100
+Appliances,Geyser,9000,68
+Appliances,Microwave,8000,50
+Appliances,Vacuum Cleaner,12000,30
+Appliances,Inverter,9000,50
+Mobiles,Samsung,110000,30
+Mobiles,Apple,135000,19
+Mobiles,Redmi,40000,48
+Mobiles,Asus,45000,40
+Mobiles,Motorola,50000,40
+Mobiles,Infinix,45000,40
+Mobiles,Poco,45000,49
+Electronics,Laptop,145000,20
+Electronics,Speaker,40000,30
+Electronics,Smart Watch,4000,49
+Electronics,Tablets,45000,20
+Electronics,Mouse,500,100
+Electronics,Keyboard,1000,100
+Electronics,Camera,100000,10
+Electronics,Monitor,10000,30
+Electronics,CPU,60000,20
+Furniture,Bed,30000,49
+Furniture,Mattress,5000,100
+Furniture,Wardrobe,30000,30
+Furniture,Dressing Table,15000,50
+Furniture,Side Table,5000,100
+Furniture,Sofa,25000,100
+Furniture,Shoe Rack,4000,100
+Furniture,Coffee Table,7000,50
+Furniture,Office Chair,7000,100
+Furniture,Office Table,10000,100
+Furniture,Bookshelf,4000,30
+Furniture,Cabinet,4000,49
+Furniture,Dining Set,30000,100
+Furniture,Outdoor Chair,7500,50
+Cosmetics,Face Wash,400,100
+Cosmetics,Sunscreen,350,100
+Cosmetics,Face Cream,250,100
+Cosmetics,Shampoo,400,100
+Cosmetics,Hair Oil,150,100
+Cosmetics,Conditioner,250,100
+Cosmetics,Perfume,500,100
+Cosmetics,Deodorant,750,100
+Cosmetics,Soap,250,100
+Cosmetics,Lotion,250,100
+Cosmetics,Toothpaste,100,100
+Cosmetics,Toothbrush,50,100
+Cosmetics,Foundation,300,98
+Cosmetics,Lipstick,250,100
+Auto Accessories,Helmet,3000,100
+Auto Accessories,Indicator,1000,100
+Auto Accessories,Phone Holder,250,100
+Auto Accessories,Crash Guard,400,100
+Auto Accessories,Air Freshener,250,100
+Auto Accessories,Dashcam,5000,100
+Auto Accessories,Bike Tyre,1500,100
+Auto Accessories,Car Tyre,2500,100
+Auto Accessories,Lubricant,250,100
